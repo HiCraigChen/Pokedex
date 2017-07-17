@@ -1,6 +1,6 @@
 # Pokedex
 Build a Pokedex to recognize Pokemons on the Gameboy screen by Opencv in Python3.6.    
-This article is based on pyimagesearch:     
+This article is based on pyimagesearch (Python2.7):     
 http://www.pyimagesearch.com/category/building-a-pokedex/
 
 # How to use
