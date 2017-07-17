@@ -5,12 +5,12 @@ http://www.pyimagesearch.com/category/building-a-pokedex/
 
 # How to use
 
-1. Scrape the pictures of pokemon from Internet and save them in the folder 'sprites'
+1. Scrape the pictures of pokemon from Internet and save them in the folder `sprites`
 ```
 python3 parse_and_download.py --pokemon-list pokemon_list.html --sprites sprites
 ```
 
-2. Store the features of each picture in the index.cpickle file 
+2. Store the features of each picture in the `index.cpickle` file 
 ```
 python3 index.py --sprites sprites --index index.cpickle
 ```
