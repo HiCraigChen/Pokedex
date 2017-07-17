@@ -22,5 +22,5 @@ python3 find_screen.py --query queries/query_marowak.jpg
 
 4. Search which Pokemon is in the cropped picture.
 ```
-python search.py --index index.cpickle --query cropped.png
+python3 search.py --index index.cpickle --query cropped.png
 ```
